@@ -1,6 +1,8 @@
-```markdown
-# Google Page Replica
 
+#preview
+  <img src="https://res.cloudinary.com/dtrmjjphv/image/upload/v1704697872/Untitled_design_1_ymdckb.png" alt="Image description">
+# Google Page Replica
+ 
 This project is a simple HTML and CSS implementation to replicate the Google search page interface. It includes a search bar, search buttons, and a footer, resembling the look and feel of the Google homepage.
 
 ## Table of Contents
